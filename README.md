@@ -20,4 +20,10 @@ Domain Key Identified Mail (Dkim)
 This authenticate the origin of the message. The purpose of this is to verify that the email message was sent from the domain it claims to be 
 
 <img width="972" height="170" alt="image" src="https://github.com/user-attachments/assets/e53a9bde-f574-4d1a-ad09-6ae07efda491" />
+
 V=1 which stands for the version one, a=rsa-sha256 refers to the algorithm used to genarate the signature, c=relaxed/relaxed ,this refers to the algorithm used for the header and the body of the message. We have the domain d=janbaskdigitaldesign.com and the selector s=S1 both are used to locate the public key that email systems can used to verify the signature.
+
+<img width="1847" height="422" alt="image" src="https://github.com/user-attachments/assets/b1d7c751-4c00-4d9b-a0a2-7a99af2d979c" />
+
+Checked the public key manually and verified that it corresponds to that of the tool
+
