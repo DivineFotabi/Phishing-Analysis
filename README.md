@@ -14,3 +14,8 @@ This authorises which mail servers can send mails onbehave of thier domains. whe
 <img width="672" height="186" alt="image" src="https://github.com/user-attachments/assets/59a8d74b-4c1d-4f15-84b0-d3c6668ef0ec" />
 
 Email originated from s.wrqvtnrb.outbound-mail.sendgrid.net which is authorise to send emails for em5893.janbaskdigitaldesign.com and the spf recorded included sengrid.net indicating that emails can be sent through the sendgrid infrastructure and the receiving google server allow the email to pass through. Hence Spf=Pass
+
+Domain Key Identified Mail (Dkim)
+
+This authenticate the origin of the message. The purpose of this is to verify that the email message was sent from the domain it claims to be 
+
