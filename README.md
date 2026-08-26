@@ -27,3 +27,9 @@ V=1 which stands for the version one, a=rsa-sha256 refers to the algorithm used 
 
 Checked the public key manually and verified that it corresponds to that of the tool
 
+<img width="1532" height="871" alt="image" src="https://github.com/user-attachments/assets/91104ed2-66dc-4a69-ac64-3559c069715b" />
+
+This indicates the public keys matched and hence Dkim=pass
+
+
+
