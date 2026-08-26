@@ -10,4 +10,7 @@ Analysing the standard headers we noticed that information from Ripple News will
 # Authentication
 Sender Policy Framework(spf)
 This authorises which mail servers can send mails onbehave of thier domains. when we look at the Received headers we can see when the email moved from the sender's mail server (s.wrqvtnrb.outbound-mail.sendgrid.net) to our trusted google mail server (AM7EUR06FT058.mail.protection.outlook.com). 
+
+<img width="672" height="186" alt="image" src="https://github.com/user-attachments/assets/59a8d74b-4c1d-4f15-84b0-d3c6668ef0ec" />
+
 Email originated from s.wrqvtnrb.outbound-mail.sendgrid.net which is authorise to send emails for em5893.janbaskdigitaldesign.com and the spf recorded included sengrid.net indicating that emails can be sent through the sendgrid infrastructure and the receiving google server allow the email to pass through. Hence Spf=Pass
