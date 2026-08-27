@@ -48,6 +48,8 @@ The email shows to have come from Ripple News. After searching on the sender I s
 When we hover over the little image at the top of the mail I discovered that the email contained imbeded links.This is an attempt to hide executable links unlike the submit button link which is somehow visible though not trusted and not to be clicked aswell. This is a call for concern.
 
 # URL Analysis
+The email contained a submit button that has a link and other links in it. opening the email in a text editor(sublime text), links can be search using the control+F function to obtain the search bar. We will obtain our URL's with the help of Cyberchef tool.
+
 
 
 
