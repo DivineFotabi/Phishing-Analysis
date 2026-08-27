@@ -53,6 +53,11 @@ The email contained a submit button that has a link and other links in it. openi
 <img width="1915" height="1070" alt="image" src="https://github.com/user-attachments/assets/7dc38e6b-05ef-430d-953d-7929cdc512be" /> 
 The URL's are 9 in number. Among these are repeated URL's. Carrying out further analysis on the first link on virus total show it was marked malicious.
 
+<img width="1910" height="1091" alt="image" src="https://github.com/user-attachments/assets/ffe31387-abd8-4efb-9d77-c14e0834baf7" /> 
+
+Further analysis using Wannabrowser to get the content of the link gave us more valuable information such as the IP address of the user(142.250.154.94) which can futher look into it using the whois command. The browser and system of the user (chrome and windows x64). All of these are useful information.
+
+
 
 
 
