@@ -42,7 +42,8 @@ Summarising the authentication analysis in the authentication header above shows
 # Content Analysis
 
 <img width="1702" height="785" alt="image" src="https://github.com/user-attachments/assets/7ef597eb-3ef5-42c4-b08b-5e780266fd7b" />
-The email shows to have come from Ripple News. After searching on the sender I saw that mails from Ripple team are incorporated with the Ripple.com domain and not janbaskdigitaldesign.com.This is a possible spoofing attempt.The email subject and first line shows and attempt of inducing a sense of urgency claiming we need to submit certain details to unblock our token. Showing high rate of social engineering .  
+The email shows to have come from Ripple News. After searching on the sender I saw that mails from Ripple team are incorporated with the Ripple.com domain and not janbaskdigitaldesign.com.This is a possible spoofing attempt.The email subject and first line shows and attempt of inducing a sense of urgency claiming we need to submit certain details to unblock our token. Showing high rate of social engineering . 
+
 
 <img width="1770" height="815" alt="image" src="https://github.com/user-attachments/assets/9ca01e30-b718-4fa6-aa03-a2c7dc4a39b2" /> 
 When we hover over the little image at the top of the mail I discovered that the email contained imbeded links.This is an attempt to hide executable links unlike the submit button link which is somehow visible though not trusted and not to be clicked aswell. This is a call for concern
