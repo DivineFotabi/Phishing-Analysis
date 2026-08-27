@@ -55,7 +55,7 @@ The URL's are 9 in number. Among these are repeated URL's. Carrying out further 
 
 <img width="1910" height="1091" alt="image" src="https://github.com/user-attachments/assets/ffe31387-abd8-4efb-9d77-c14e0834baf7" /> 
 
-Further analysis using Wannabrowser to get the content of the link gave us more valuable information such as the IP address of the user(142.250.154.94) which can futher look into it using the whois command. The browser and system of the user (Mozilla/5.0 and windows 10.0 / x64). All of these are useful information.
+Further analysis using Wannabrowser to get the content of the link gave us more valuable information such as the IP address of the user(142.250.154.94) which can futher look into it using the whois command. The browser and system of the user (Mozilla/5.0 and windows 10.0 / x64). All of these are useful information. We got more information about the body of the link and the header aswell
 
 <img width="1907" height="1077" alt="image" src="https://github.com/user-attachments/assets/b8d25aa8-dec8-454a-bf0a-351a5fb251c5" />
 
