@@ -50,6 +50,11 @@ When we hover over the little image at the top of the mail I discovered that the
 # URL Analysis
 The email contained a submit button that has a link and other links in it. opening the email in a text editor(sublime text), links can be search using the control+F function to obtain the search bar. We will obtain our URL's with the help of Cyberchef tool.
 
+<img width="1915" height="1070" alt="image" src="https://github.com/user-attachments/assets/7dc38e6b-05ef-430d-953d-7929cdc512be" />
+
+
+
+
 
 
 
