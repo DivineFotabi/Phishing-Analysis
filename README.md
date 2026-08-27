@@ -36,6 +36,7 @@ This indicates the public keys matched and hence Dkim=pass
 Domain Base Message Authentication Reporting and conformance (DMARC)
 
 This helps to add a layer of control for domain owners. Hence DMARC= Pass.
+
 Summarising the authentication analysis in the authentication header above shows that spf= pass, Dkim= pass. Dmac= pass but had we failed it will be set to reject indicating that it will tell the mail server to reject the email. This does not automatic determine the faith of an email as attackers always have ways to pass this check by like registering a look-alike domain or compromising a legitimate mail box like google.
 
 
