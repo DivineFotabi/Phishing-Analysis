@@ -47,6 +47,10 @@ The email shows to have come from Ripple News. After searching on the sender I s
 <img width="1770" height="815" alt="image" src="https://github.com/user-attachments/assets/9ca01e30-b718-4fa6-aa03-a2c7dc4a39b2" /> 
 When we hover over the little image at the top of the mail I discovered that the email contained imbeded links.This is an attempt to hide executable links unlike the submit button link which is somehow visible though not trusted and not to be clicked aswell. This is a call for concern.
 
+# URL Analysis
+
+
+
 
 
 
