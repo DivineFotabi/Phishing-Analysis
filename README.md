@@ -42,7 +42,7 @@ Summarising the authentication analysis in the authentication header above shows
 # Content Analysis
 
 <img width="1702" height="785" alt="image" src="https://github.com/user-attachments/assets/7ef597eb-3ef5-42c4-b08b-5e780266fd7b" />
-The email shows to have come from Ripple News. After searching on the sender I saw that mails from Ripple team are incorporated with the Ripple.com domain and not janbaskdigitaldesign.com.This is a possible spoofing attempt.The email subject and first line shows and attempt of inducing a sense of urgency claiming we need to submit certain details to unblock our token. Showing high rate of social engineering . 
+The email shows to have come from Ripple News. After searching on the sender I saw that mails from Ripple team are incorporated with the Ripple.com domain and not janbaskdigitaldesign.com.This is a possible spoofing attempt.The email subject,first line and body content shows and attempt of inducing a sense of urgency claiming we need to submit certain details to a link not carrying the Ripple domain to unblock our token. Showing high rate of social engineering . The XRP allocation show a potential cryptocurrency strategy which is commonly used by most threat actors.
 
 <img width="1770" height="815" alt="image" src="https://github.com/user-attachments/assets/9ca01e30-b718-4fa6-aa03-a2c7dc4a39b2" /> 
 When we hover over the little image at the top of the mail I discovered that the email contained imbeded links.This is an attempt to hide executable links unlike the submit button link which is somehow visible though not trusted and not to be clicked aswell. This is a call for concern.
@@ -51,13 +51,15 @@ When we hover over the little image at the top of the mail I discovered that the
 The email contained a submit button that has a link and other links in it. opening the email in a text editor(sublime text), links can be search using the control+F function to obtain the search bar. We will obtain our URL's with the help of Cyberchef tool.
 
 <img width="1915" height="1070" alt="image" src="https://github.com/user-attachments/assets/7dc38e6b-05ef-430d-953d-7929cdc512be" /> 
-The URL's are 9 in number. Among these are repeated URL's. Carrying out further analysis on the first link on virus total show it was marked malicious.
+The URL's are 9 in number. Among these are repeated URL's. Links contain diifferent domain names such as emailserv57-xrp.com rather than the ripple news domain name. some of the links contins encoding like Hexa writing which may be worth looking at. Carrying out further analysis on the first link on virus total show it was marked malicious.
 
 <img width="1910" height="1091" alt="image" src="https://github.com/user-attachments/assets/ffe31387-abd8-4efb-9d77-c14e0834baf7" />
 
 Further analysis using Wannabrowser to get the content of the link gave us more valuable information such as the IP address of the user(142.250.154.94) which can futher look into it using the whois command. The browser and system of the user (Mozilla/5.0 and windows 10.0 / x64). All of these are useful information. We got more information about the body of the link and the header aswell
 
-<img width="1907" height="1077" alt="image" src="https://github.com/user-attachments/assets/b8d25aa8-dec8-454a-bf0a-351a5fb251c5" />
+<img width="1907" height="1077" alt="image" src="https://github.com/user-attachments/assets/b8d25aa8-dec8-454a-bf0a-351a5fb251c5" /> 
+
+Decoding 726f647269676f2d662d7040686f746d61696c2e636f6d from https://emailserv57-xrp.com/726f647269676f2d662d7040686f746d61696c2e636f6d show there is a hiding email in it. This might be targeting a particular individual or sending acquired details to a particular individual. 
 
 
 
