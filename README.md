@@ -65,6 +65,11 @@ Decoding 726f647269676f2d662d7040686f746d61696c2e636f6d from https://emailserv57
 
 At the end of the mail we got a tracking link img src=3D"http://url4983.janbaskdigitaldesign.com/wf/open?upn= containing the tracking pixel . This might be to monitor who and when the message is reacted to.
 
+<img width="1620" height="806" alt="image" src="https://github.com/user-attachments/assets/99cf356f-22e2-4cd8-b4f8-951ffe318f34" /> 
+
+
+
+
 
 
 
