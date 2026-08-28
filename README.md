@@ -59,11 +59,11 @@ Further analysis using Wannabrowser to get the content of the link gave us more 
 
 <img width="1907" height="1077" alt="image" src="https://github.com/user-attachments/assets/b8d25aa8-dec8-454a-bf0a-351a5fb251c5" /> 
 
-Decoding 726f647269676f2d662d7040686f746d61696c2e636f6d from https://emailserv57-xrp.com/726f647269676f2d662d7040686f746d61696c2e636f6d show there is a hiding email in it. This might be targeting a particular individual or sending acquired details to a particular individual.
+Decoding 726f647269676f2d662d7040686f746d61696c2e636f6d from hxxps[://]emailserv57-xrp[.]com/726f647269676f2d662d7040686f746d61696c2e636f6dshow there is a hiding email in it. This might be targeting a particular individual or sending acquired details to a particular individual.
 
 <img width="1887" height="1035" alt="image" src="https://github.com/user-attachments/assets/8a42d41e-fcea-40e3-973d-5c8eb5ccc24b" /> 
 
-At the end of the mail we got a tracking link img src=3D"http://url4983.janbaskdigitaldesign.com/wf/open?upn= containing the tracking pixel . This might be to monitor who and when the message is reacted to.
+At the end of the mail we got a tracking link img src=3D"hxxp[://]url4983[.]janbaskdigitaldesign[.]com/wf/open?upn= containing the tracking pixel . This might be to monitor who and when the message is reacted to.
 
 <img width="1620" height="806" alt="image" src="https://github.com/user-attachments/assets/99cf356f-22e2-4cd8-b4f8-951ffe318f34" /> 
 
