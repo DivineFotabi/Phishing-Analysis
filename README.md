@@ -68,7 +68,11 @@ At the end of the mail we got a tracking link img src=3D"hxxp[://]url4983[.]janb
 <img width="1620" height="806" alt="image" src="https://github.com/user-attachments/assets/99cf356f-22e2-4cd8-b4f8-951ffe318f34" /> 
 
 # Attachment Analysis
-From the email below I could identy an attached file in the content. performing analysis on this attachment, it is essential to the attached file which happened to be quotation.iso as seen below and deriving the hash of it. I obtained the sha256 hash.
+From the email below I could identy an attached file in the content. 
+performing analysis on this attachment, it is essential to the attached file which happened to be quotation.iso as seen below and deriving the hash of it. I obtained the sha256 hash.
+
+<img width="1662" height="907" alt="image" src="https://github.com/user-attachments/assets/19203265-fbb8-41ca-bdb6-7b7359ddc224" /> 
+
 Further analysis on the hash using virus total showed that the file was flaged malicious and appeared as a Trojan
 
 
