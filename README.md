@@ -21,7 +21,7 @@ This authenticate the origin of the message. The purpose of this is to verify th
 
 <img width="972" height="170" alt="image" src="https://github.com/user-attachments/assets/e53a9bde-f574-4d1a-ad09-6ae07efda491" />
 
-V=1 which stands for the version one, a=rsa-sha256 refers to the algorithm used to genarate the signature, c=relaxed/relaxed ,this refers to the algorithm used for the header and the body of the message. We have the domain d=janbaskdigitaldesign.com and the selector s=S1 both are used to locate the public key that email systems can used to verify the signature. bh whish stands for the body hash and encoded in B64, b: the b filled which is the Dkim signature itself
+V=1 which stands for the version one, a=rsa-sha256 refers to the algorithm used to genarate the signature, c=relaxed/relaxed ,this refers to the algorithm used for the header and the body of the message. We have the domain d= and the selector s=S1 both are used to locate the public key that email systems can used to verify the signature. bh whish stands for the body hash and encoded in B64, b: the b filled which is the Dkim signature itself
 
 <img width="1847" height="422" alt="image" src="https://github.com/user-attachments/assets/b1d7c751-4c00-4d9b-a0a2-7a99af2d979c" />
 
@@ -75,7 +75,15 @@ performing analysis on this attachment, it is essential to the attached file whi
 
 Further analysis on the hash using virus total showed that the file was flaged malicious and appeared as a Trojan
 
-<img width="1897" height="982" alt="image" src="https://github.com/user-attachments/assets/b09f47f3-0668-4335-9bf1-2fabac995ceb" />
+<img width="1897" height="982" alt="image" src="https://github.com/user-attachments/assets/b09f47f3-0668-4335-9bf1-2fabac995ceb" /> 
+
+# Response/Defense measures
+From all the analysis carried out. The mail was a phishing mail.
+1) We can quarantine the malicious email and those with attachments so the do not reach other intented receipeints
+2) We can block the specific domaim name of janbaskdigitaldesign.com, the senders IP, the email subject and the links
+3) We can prevent users from downloading files
+4) Carry out effective training on malicious emails and attack.
+5) Remove the email,files and sites completely from our system and implement credential changes measures for affected individuals
 
 
 
