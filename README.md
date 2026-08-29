@@ -1,4 +1,27 @@
 # Phishing-Analysis
+# Objective
+
+This project is to develop an understanding of phishing emails and the techniques used by attackers to deceive users into revealing sensitive information. The project aims to analyze the common characteristics of phishing emails, identify suspicious links, attachments, and sender details, and demonstrate methods for detecting and preventing phishing attacks.
+
+# Skills Learned
+- Understanding and examining sender details, IP addresses, timestamps.
+- Identifying indicators that distinguish phishing emails from legitimate messages.
+- Knowing how to check suspicious links, domains.
+- Recognizing manipulation techniques such as urgency
+- Good kwoledge on how to  research suspicious domains, IP addresses, and other indicators of compromise.
+- Identifying and investigating potentially dangerous attachments and understanding thier risks.
+- Gaining practical experience with tools used to inspect emails, URLs and file attachments.
+- Knowing how to interprete if an email is authentic or not.
+- Learning how to documenting findings and communicate security threats clearly.
+# Tools
+- Thunderbird
+- Sublime Text
+- Virustotal
+- Wannabrowser
+- Cyberchef
+- Didier steven suite
+- Whoisdomaintool
+## Steps
 # Email Overview
 <img width="1852" height="801" alt="image" src="https://github.com/user-attachments/assets/61ab9ed9-1704-45b4-8c10-baa1a36e7152" />
 Email shows to have come from Ripple News team urging its investors to unlock thier token accounts by registering into a link. This could be a possible credential capture attempt on thier users.
