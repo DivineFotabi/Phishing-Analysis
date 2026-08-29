@@ -75,6 +75,9 @@ performing analysis on this attachment, it is essential to the attached file whi
 
 Further analysis on the hash using virus total showed that the file was flaged malicious and appeared as a Trojan
 
+<img width="1897" height="982" alt="image" src="https://github.com/user-attachments/assets/b09f47f3-0668-4335-9bf1-2fabac995ceb" />
+
+
 
 
 
