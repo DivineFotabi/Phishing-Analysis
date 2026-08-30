@@ -21,6 +21,7 @@ This project is to develop an understanding of phishing emails and the technique
 - Cyberchef
 - Didier steven suite
 - Whoisdomaintool
+- MXToolBox
 # Steps
 # Email Overview
 <img width="1852" height="801" alt="image" src="https://github.com/user-attachments/assets/61ab9ed9-1704-45b4-8c10-baa1a36e7152" />
