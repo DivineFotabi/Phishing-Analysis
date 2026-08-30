@@ -91,6 +91,8 @@ At the end of the mail we got a tracking link img src=3D"hxxp[://]url4983[.]janb
 
 <img width="1620" height="806" alt="image" src="https://github.com/user-attachments/assets/99cf356f-22e2-4cd8-b4f8-951ffe318f34" /> 
 
+After performing the URL reputation checks the URL within the call to action button of this email was found to be malicious as it contains a tracking device and a hidden email. This is a possible credential capture strategy. 
+
 # Attachment Analysis
 From the email below I could identy an attached file in the content. 
 performing analysis on this attachment, it is essential to the attached file which happened to be quotation.iso as seen below and deriving the hash of it. I obtained the sha256 hash.
@@ -101,8 +103,11 @@ Further analysis on the hash using virus total showed that the file was flaged m
 
 <img width="1897" height="982" alt="image" src="https://github.com/user-attachments/assets/b09f47f3-0668-4335-9bf1-2fabac995ceb" /> 
 
-# Response/Defense measures
-From all the analysis carried out. The mail was a phishing mail.
+# Verdict
+Due to the email not originally from Ripple News, the email was an indication of impersonstion and spoofing attemt. To add on The email URL's appeared to be malicous.
+In addition the the email attachment was flag as a trojan by virustotal
+# Defense Actions
+The email trace shows no other user received the email from this sender so to prevent sender from sending any other mail to the organisation we we can perform the following actions:
 1) We can quarantine the malicious email and those with attachments so the do not reach other intented receipeints
 2) We can block the specific domaim name of janbaskdigitaldesign.com, the senders IP, the email subject and the links
 3) We can prevent users from downloading files
